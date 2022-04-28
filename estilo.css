@@ -1,0 +1,56 @@
+body {
+    background-image: url("../img/cyber.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 5px;
+    position: relative;
+    padding: 20px;
+    width: 500px;
+    margin: auto auto;
+    margin-top: 13%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.404);
+}
+
+#box {
+    text-align: center;
+}
+
+#not_valid {
+    text-align: center;
+    color: white;
+    background: red;
+    border-radius: 5px;
+    padding: auto;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.404);
+}
+
+#success {
+    text-align: center;
+    color: white;
+    background: green;
+    border-radius: 5px;
+    padding: auto;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.404);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font: normal 10pt Arial;
+}
